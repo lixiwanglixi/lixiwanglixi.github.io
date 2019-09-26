@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-05-01-Wang_Strategies_LUBA
 excerpt: 'This paper is my undergratuate thesis focusing on strategies in Lowest Unique Bid Auctions (LUBA).'
 date: 2019-05-03
-venue: 'Not Published'
+venue: 'Brandeis Econ Honor Thesis'
 paperurl: 'http://academicpages.github.io/files/Wang_Strategies_LUBA.pdf'
 citation: 'Wang, Lixi. (2019). &quot;Strategies in Lowest Unique Bid Auctions.&quot;'
 ---
