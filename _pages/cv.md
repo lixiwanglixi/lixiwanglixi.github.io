@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+Download my CV [here](https://drive.google.com/file/d/1MaQm623361TYXsd4W5sDL5XD-DkkKeoc/view?usp=sharing)
+======
+
 Education
 ======
 * B.A. in Economics (highest honors) and Mathematics (honors), Brandeis University, 2019
@@ -19,7 +22,7 @@ Work experience
   * Energy Policy Institute at the University of Chicago
   * Aug. 2019 - 
   * Supervisor: Prof. Thomas Covert, Prof. Ryan Kellogg
-  * Bio Page: https://epic.uchicago.edu/people/lixi-wang/
+  * [Bio Page](https://epic.uchicago.edu/people/lixi-wang)
 
 * Research Assistant
   * Math department, Brandeis University
@@ -48,7 +51,6 @@ Skills
   * MATLAB
   * Stata
 
-* Downloadable CV: https://drive.google.com/file/d/1MaQm623361TYXsd4W5sDL5XD-DkkKeoc/view?usp=sharing
 
 <!--
 Publications
