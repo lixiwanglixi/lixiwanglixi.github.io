@@ -8,9 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-Download my full CV
-======
-* https://drive.google.com/file/d/1MaQm623361TYXsd4W5sDL5XD-DkkKeoc/view?usp=sharing
 
 Education
 ======
@@ -50,6 +47,8 @@ Skills
   * Python
   * MATLAB
   * Stata
+
+* Downloadable CV: https://drive.google.com/file/d/1MaQm623361TYXsd4W5sDL5XD-DkkKeoc/view?usp=sharing
 
 <!--
 Publications
